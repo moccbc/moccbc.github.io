@@ -5,4 +5,7 @@ order: 2
 ---
 
 ## Things to Read
-- [ ] Database Management Systems: This is inspired by reading DDIA and wanting to learn how databases are created.
+- [ ] Database Management Systems: Inspired by reading DDIA and wanting to learn how databases are created.
+- [ ] Amazon DynamoDb whitepaper
+- [ ] Google Chubby whitepaper
+- [ ] Google BigTable whitepaper
