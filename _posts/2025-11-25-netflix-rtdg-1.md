@@ -10,6 +10,18 @@ tags: [dayone, netflixrdg]
 
 Read until "Kafka as the Ingestion Backbone"
 
+## Summary
+
+As business needs grew in Netflix, so did the complexity of the microservice ecosystem within the company itself. At the same time, there was a need for Netflix to be able to draw insights from data between the different business needs these microservices were serving. One example that the article gave was of how a single user could take three different actions such as watching an episode of a show, then switching devices, then finally playing the related game on the platform. How could all of these actions be traced back to the single person?
+
+The problem was not that they had a data collection issue. It was more of a data retrieving issue. A microservice architecture helps in isolating teams from each other so that they are able to build and deploy independently of each other. In addition, since services in this architecture interact with each other through interfaces or API contracts, data isolation is also a big pro. This way teams don't have to share different data storage methods or schemas between other services. However, the latter is a big issue when it comes to answering the key question that needs to be answered here. It would take multiple hops between different data sources in order to draw conclusions, which can take up a lot of time because you have to figure out who owns the information, request it, then have the team process it, then the team needs to respond, etc.
+
+This is where the Real-Time Data Graph, or RDG, comes into play. With a graph representation, you would be able to connect data (nodes) with relationships (edges). Then drawing insights from this data would just be a graph traversal. In addition, a graph structure provides flexibility as things change.
+
+The article then goes into discussing the high level idea of RDG. It has 3 layers to it: the ingestion and processing, the storage, and the retrieval. The ingestion and processing step is where they actually create the graph out of the data. The storage layer will store the graph for later use. Finally, the retrieval layer is probably where the information is used to draw the insights.
+
+Part 1 really only describes the ingestion and processing layer. This is where I stopped for this day.
+
 ## Notes
 ### Introduction
 - The article states that Netflix's core offering is "streaming video on demand". It makes a distinction between this and "ad-supported plans", "live programming events", and "mobile games"(!).
