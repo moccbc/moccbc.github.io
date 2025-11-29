@@ -1,6 +1,6 @@
 ---
 author: yuta
-title: Designing Data Intensive Applications Day 1
+title: Designing Data Intensive Applications - Day 1
 date: 2025-11-12 -0800
 categories: [DayOne, Ddia]
 tags: [dayone, ddia]
