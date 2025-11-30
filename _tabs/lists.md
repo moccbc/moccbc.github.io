@@ -9,7 +9,7 @@ order: 2
 - [ ] Amazon DynamoDb whitepaper
 - [ ] Google Chubby whitepaper
 - [ ] Google BigTable whitepaper
-- [ ] Read Wikipedia article for [Franz Kafka](en.wikipedia.org/wiki/Franz_Kafka)
+- [ ] Read Wikipedia article for [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)
 
 ## Things I Want to Do
 - [ ] Implement Kafka from scratch
