@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: FillingTheGaps # the main title
 
-tagline: Learning Something Everyday # it will display as the subtitle
+tagline: # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog about learning something everyday.
