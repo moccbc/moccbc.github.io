@@ -39,7 +39,7 @@ From what I could gather from this article though, it seems like Kafka is some k
     - These questions are just simply coming from my lack of understanding of how these systems work. Again, the article seems to be written towards an audience that actually understands a thing or two about these and I just cannot follow the technical jargon that is being thrown around here.
 - "Topic records are encoded in the Apache Avro format, and Avro schemas are persisted in an internal centralized schema registry"
   - Okay, what's the significance of the "Apache Avro format" here?
-  - Oh, [Apache Avro](avro.apache.org) is just a data serialization format. But what's so special about it?
+  - Oh, [Apache Avro](https://avro.apache.org) is just a data serialization format. But what's so special about it?
     - Also I'm noticing a lot of things seem to have come from "Apache". I think that's a Native American tribe name? What does it have to do with software though?
 - "In order to strike a balance between maintaining data availability and managing the financial expenses of storage infrastructure, we tailor retention policies for each topic according to its throughput and record size"
   - Hmm interesting. So that seems like a large overhead for customization though. If there are a lot of topics, you need to do a lot of maintenance work for this to tune for some sort of optimal.
