@@ -2,8 +2,8 @@
 author: yuta
 title: Netflix Real-Time Distributed Graph (RDG) - Day 2
 date: 2025-11-28 -0800
-categories: [NetflixRdg]
-tags: [netflixrdg]
+categories: [TechBlog, NetflixRdg]
+tags: []
 ---
 
 > Read up to right before "Processing Data with Apache Flink"

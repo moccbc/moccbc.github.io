@@ -2,8 +2,8 @@
 author: yuta
 title: Netflix Real-Time Distributed Graph (RDG) - Day 1
 date: 2025-11-25 -0800
-categories: [DayOne, NetflixRdg]
-tags: [dayone, netflixrdg]
+categories: [TechBlog, NetflixRdg]
+tags: [dayone]
 ---
 
 > This is my commentary on Netflix's blog article ["How and Why Netflix Built a Real-Time Distributed Graph: Part 1 — Ingesting and Processing Data Streams at Internet Scale"](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc)
