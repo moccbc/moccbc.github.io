@@ -11,6 +11,9 @@ order: 2
 - [ ] Google BigTable whitepaper
 - [ ] Read Wikipedia article for [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)
 
+## Learning List
+- [ ] Learn about DNS and IP addresses
+
 ## Things I Want to Do
 - [ ] Implement Kafka from scratch
 - [ ] Implement a Write Ahead Logger
