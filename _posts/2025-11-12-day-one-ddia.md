@@ -3,7 +3,7 @@ author: yuta
 title: Designing Data Intensive Applications - Day 1
 date: 2025-11-12 -0800
 categories: [SystemDesign, Ddia]
-tags: [dayone]
+tags: [dayone, systemdesign]
 ---
 
 Read until page 32
