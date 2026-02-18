@@ -29,6 +29,7 @@ Use ✅ to mark a habit as done for the day.
 ## February 2026
 
 <!-- Leetcode, Reading, Working Out, Day Trading -->
+
 | Day | {{ page.habit1 }} | {{ page.habit2 }} | {{ page.habit3 }} | {{ page.habit4 }} |
 |:----|:------:|:------:|:------:|:------:|
 | 16  |        |        |        |   ✅   |
