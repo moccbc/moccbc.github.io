@@ -4,7 +4,6 @@ order: 7
 habit1: "Leetcode"
 habit2: "Reading"
 habit3: "Working Out"
-habit4: "Day Trading"
 ---
 
 <style>
@@ -41,7 +40,7 @@ Use ✅ to mark a habit as done for the day.
 | 6   |   ✅    |         |   ✅    |
 | 7   |   ✅    |         |   ✅    |
 | 8   |         |         |         |
-| 9   |         |         |         |
+| 9   |   ✅    |         |   ✅    |
 | 10  |         |         |         |
 | 11  |         |         |         |
 | 12  |         |         |         |
